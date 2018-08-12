@@ -5,3 +5,5 @@ This my "talk materials" what I had.
 ### Date : 2018. 7. 22
 #### Google Assistant.
 #### Android Auto.
+
+# *Name of GDG Gwangmyeong has been changed to GDG Guro.
