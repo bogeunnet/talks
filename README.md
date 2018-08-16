@@ -7,3 +7,5 @@ This my "talk materials" what I had.
 #### Android Auto.
 
 # *Name of GDG Gwangmyeong has been changed to GDG Guro.
+
+#### Next Event will be small group for study
